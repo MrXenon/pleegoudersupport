@@ -2,10 +2,10 @@
 /**
  * Plugin Name: Pleegoudersupport Zeeland
  * Plugin URI: https://www.pleegoudersupport.nl/
- * Description: Plugin exclusief voor Pleegoudersupport Zeeland.
- * Author: Aaron Wakefield
+ * Description: Plugin exclusief voor Pleegoudersupport Zeeland. (Repo MrXenon)
+ * Author: Ruben Struijlaart
  * Author URI: https://stichtingivs.nl
- * Version: 0.0.1
+ * Version: 1.0.0
  * Text Domain: PleegoudersupportZeeland
  * Domain Path: pleegoudersupportzeeland
  */
